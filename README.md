@@ -5,8 +5,7 @@ Complete the Following SQL Exercises -
 (This file contains the code necessary to create and add the tables).
 2. Create a Songs table in the above mentioned database
  - id, name, length, album_id
- - 
-After successfully creating the table copy the code from data.sql into MySQL Workbench,
+ - After successfully creating the table copy the code from data.sql into MySQL Workbench,
 and run it to populate all of the data for the rest of the exercises. 
 If you do not encounter any errors, then your answer is most likely correct.
 
